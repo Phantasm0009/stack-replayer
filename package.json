@@ -1,6 +1,6 @@
 {
   "name": "stack-replayer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn cryptic error logs into reproducible bugs, replay scripts, and fix suggestions — with optional AI",
   "type": "module",
   "main": "./dist/index.js",
