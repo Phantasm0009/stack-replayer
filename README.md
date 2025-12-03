@@ -2,7 +2,7 @@
 
 > Turn cryptic error logs into reproducible bugs, replay scripts, and fix suggestions — with optional AI.
 
-[![NPM Version](https://img.shields.io/npm/v/stack-replayer)](https://www.npmjs.com/package/stack-replayer)
+![NPM Version](https://img.shields.io/npm/v/stack-replayer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Features
